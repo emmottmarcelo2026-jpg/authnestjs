@@ -684,9 +684,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 **Marcelo Emmott**
 
-- 🌐 GitHub: [@marceloemmott](https://github.com/marceloemmott)
+- 🌐 GitHub: [@emmottmarcelo2026-jpg](https://github.com/emmottmarcelo2026-jpg)
 - 💼 LinkedIn: [Marcelo Emmott](https://linkedin.com/in/marceloemmott)
-- 📧 Email: contacto@ejemplo.com
+- 📧 Email: emmottmarcelo2026@gmail.com
 
 ---
 
@@ -701,12 +701,12 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## 📊 Estadísticas del Proyecto
 
-![GitHub stars](https://img.shields.io/github/stars/tu-usuario/authnestjs?style=social)
-![GitHub forks](https://img.shields.io/github/forks/tu-usuario/authnestjs?style=social)
-![GitHub issues](https://img.shields.io/github/issues/tu-usuario/authnestjs)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/tu-usuario/authnestjs)
-![GitHub last commit](https://img.shields.io/github/last-commit/tu-usuario/authnestjs)
-![GitHub repo size](https://img.shields.io/github/repo-size/tu-usuario/authnestjs)
+![GitHub stars](https://img.shields.io/github/stars/emmottmarcelo2026-jpg/authnestjs?style=social)
+![GitHub forks](https://img.shields.io/github/forks/emmottmarcelo2026-jpg/authnestjs?style=social)
+![GitHub issues](https://img.shields.io/github/issues/emmottmarcelo2026-jpg/authnestjs)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/emmottmarcelo2026-jpg/authnestjs)
+![GitHub last commit](https://img.shields.io/github/last-commit/emmottmarcelo2026-jpg/authnestjs)
+![GitHub repo size](https://img.shields.io/github/repo-size/emmottmarcelo2026-jpg/authnestjs)
 
 ---
 

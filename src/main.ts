@@ -56,7 +56,7 @@ async function bootstrap() {
       },
       'JWT-auth',
     )
-    .setContact('Marcelo Emmott', 'https://github.com/marceloemmott', 'contacto@ejemplo.com')
+    .setContact('Marcelo Emmott', 'https://github.com/emmottmarcelo2026-jpg', 'emmottmarcelo2026@gmail.com')
     .setLicense('MIT', 'https://opensource.org/licenses/MIT')
     .build();
   const document = SwaggerModule.createDocument(app, config);
